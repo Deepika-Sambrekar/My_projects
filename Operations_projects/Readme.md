@@ -1,4 +1,5 @@
 Overview:
+
 This project focuses on leveraging deep learning to enhance diagnostic accuracy and efficiency in hospital settings. 
 A convolutional neural network (CNN) was developed to classify chest X-ray images into four categories: Healthy, COVID-19, Bacterial Pneumonia, and Viral Pneumonia.
 
