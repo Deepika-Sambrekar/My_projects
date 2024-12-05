@@ -1,5 +1,5 @@
 Overview:
-This project involves developing a comprehensive framework for analyzing and backtesting various U.S. stock investment strategies, including Buy and Hold, Momentum, Contrarian, and Moving Averages. 
+This project involves developing a comprehensive framework for analyzing U.S. stock investment strategies using backtesting, forward testing and index tracking, including methods such as Buy and Hold, Momentum, Contrarian, and Moving Averages. 
 It aims to evaluate strategy performance and provide actionable insights for informed investment decisions.
 
 Key Features:
